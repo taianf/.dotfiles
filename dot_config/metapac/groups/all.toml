@@ -218,6 +218,7 @@ arch = { packages = [
   "system-config-printer",
   "texinfo",
   "topgrade",
+  "tree",
   "ttf-bitstream-vera",
   "ttf-dejavu",
   "ttf-liberation",
